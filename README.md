@@ -2,16 +2,23 @@
 
 <br>
 
-<div style ="display:flex;" align="center">
-    <img src="https://github.com/leo2143/leo2143/blob/main/stain.png" style="width:230px"/>
-</div>
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-### <div align="center">I'm a Student of institute Davinci, Bs.AS. Still in the process of learning in the world of Web Development</div>
+<picture> <img align="right" src="https://github.com/leo2143/leo2143/blob/main/stain.png" width = 300px></picture>
+
+<br>
+<br>
+
+- :school: I am currently pursuing a technical degree in "Advanced Technician in Web Design and Programming." at [Davinci school](https://davinci.edu.ar/acerca-de-escuela-da-vinci).
+- :technologist: I love Designing and develop ideas using new tecnologies.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1NAaReGznqv_xP8_y-oRa57D4EKGmeMZo/view?usp=sharing).
+- :boom: You can visit [MY WEBSITE](https://portafolio-orellana-leonardo.vercel.app/).
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
- <h2>Skills  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
- </h2>
+# <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> Skills
  </br>
 
 ### Lenguages :
@@ -61,7 +68,8 @@
 </p>
 <br>
 
-# Contact Me :
+# Contact Me
+
 <p>
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/leo2143/leo2143/blob/main/stain-sitting.png">
 
