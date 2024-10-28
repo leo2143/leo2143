@@ -1,12 +1,14 @@
 <h1 align="center"><b>Hi , I'm Leonardo Orellana</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
+
 <div style ="display:flex;" align="center">
-  <img src="https://github.com/leo2143/Elden-Ring-Fan-web/blob/main/imagenes/imagenes-utiles/darksouls.png"/>
+    <img src="https://github.com/leo2143/leo2143/blob/main/stain.png" style="width:230px"/>
+
 
 </div>
 
-### <div align="center">I'm a Student of Diponegoro University, Indonesia. Still in the process of learning in the world of Web Development</div>
+### <div align="center">I'm a Student of institute Davinci, Bs.AS. Still in the process of learning in the world of Web Development</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
